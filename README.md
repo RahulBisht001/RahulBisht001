@@ -35,9 +35,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RahulBisht001&theme=dark&hide_border=false)<br/>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.app/api?username=rahulbisht001&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 ### ✍️ Random Dev Quote
