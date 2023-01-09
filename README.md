@@ -1,4 +1,4 @@
-![logo](https://github.com/RahulBisht001/RahulBisht001/blob/main/Rahul%20B%20Github%20Banner%20Final.png)
+![logo](https://github.com/RahulBisht001/RahulBisht001/blob/main/GithubBanner%20Final.png)
 <h1 align="center">Hi 👋, I'm Rahul B</h1>
 
 # 💫 About Me:
