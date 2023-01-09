@@ -12,6 +12,9 @@
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/RahulB001/)
 
 
+<img align="left" width="400" src="[(https://pin.it/5h3urp4)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dcoder&psig=AOvVaw1pQKPdIbMJO1YPajaWWDo_&ust=1673364537857000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjC3-DmuvwCFQAAAAAdAAAAABAR)">
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rb__99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RahulBisht) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Rahulbisht) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Rahulbishtrb) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/RahulB ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/TrexxX001) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RahulB) 
 <p align="left">
