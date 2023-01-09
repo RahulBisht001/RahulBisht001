@@ -35,10 +35,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RahulBisht001&theme=dark&hide_border=false)<br/>
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.app/api?username=rahulbisht001&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-## 🐦 Latest Tweet
-
-[![](https://gtce.itsvg.in/api?username=RahulB)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<br/>  
 
 ### ✍️ Random Dev Quote
 
@@ -47,4 +47,3 @@
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
