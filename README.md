@@ -1,5 +1,10 @@
-![logo](https://github.com/RahulBisht001/RahulBisht001/blob/main/GithubBanner%20Final.png)
 <h1 align="center">Hi 👋, I'm Rahul B</h1>
+
+![logo](https://github.com/RahulBisht001/RahulBisht001/blob/main/GithubBanner%20Final.png)
+
+<p align="center">
+  <img src="https://github.com/pranjalhere/pranjalhere/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 # 💫 About Me:
  🔭 I’m currently working Backend Development.<br/>
