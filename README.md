@@ -65,7 +65,17 @@
 
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulbisht001&layout=compact&langs_count=5&theme=dark"
+
+
+![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulBisht001)
+
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=RahulBisht001)
+
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=RahulBisht001)
+
+
+
+<!-- <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulbisht001&layout=compact&langs_count=5&theme=dark"
   alt="rahulbisht001" /></p>
 <br/>
 <br/>
@@ -73,6 +83,7 @@
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbisht001&show_icons=true&theme=dark" alt="rahulbisht001" /></p>
 <br/>  
+!-->
 
 ### ✍️ Random Dev Quote
 
