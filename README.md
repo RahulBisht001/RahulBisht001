@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
- 🔭 I’m currently working Backend Development.<br/>
+ 🔭 I’m currently working in Backend Development.<br/>
  🌱 I'm  Currently Learning Node.js.<br/>
  🔍 I am Looking for Machine Learning Resources.<br/>
  🤔 I’m looking for help with Python and R Specially Data Scraping <br/>
