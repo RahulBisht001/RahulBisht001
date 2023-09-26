@@ -4,10 +4,10 @@
 
 
 # 💫 About Me:
- 🔭 I’m currently working in Backend Development.<br/>
- 🌱 I'm  Currently Learning Node.js.<br/>
+ 🔭 I’m a Full stack MERN Developer.<br/>
+ 🌱 I'm  Currently Learning Next.js.<br/>
  🔍 I am Looking for Machine Learning Resources.<br/>
- 🤔 I’m looking for help with Python and R Specially Data Scraping <br/>
+ 🤔 I’m looking for help with Python and R especially Data Scraping <br/>
  💬 Ask me About  Data structure and Algorithms, Front end Development <br/>
  ⚡ Fun fact: I Love Doge Meme 🐶<br/>
  👨‍💻 All of my projects are available at : [RahulB001](https://www.linkedin.com/in/RahulB001/)<br/>
