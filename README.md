@@ -75,12 +75,9 @@
 # 📊 GitHub Stats:
 
 
-![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulBisht001)
-
-![Github Stats 3](https://github-readme-stats.vercel.app/api?username=RahulBisht001)
-
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=RahulBisht001)
-
+![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulBisht001&layout=pie)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=RahulBisht001&theme=tokyonights)
+![Github States](https://github-readme-stats.vercel.app/api?username=RahulBisht001&show_icons=true&theme=tokyonight)
 
 
 <!-- <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulbisht001&layout=compact&langs_count=5&theme=dark"
