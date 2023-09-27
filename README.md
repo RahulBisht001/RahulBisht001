@@ -76,6 +76,8 @@
 
 
 ![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulBisht001&layout=pie)
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulBisht001&layout=donut-vertical)
+
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=RahulBisht001&theme=tokyonights)
 ![Github States](https://github-readme-stats.vercel.app/api?username=RahulBisht001&show_icons=true&theme=tokyonight)
 
