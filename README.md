@@ -5,8 +5,8 @@
 
 # 💫 About Me:
  🔭 I’m a Full stack MERN Developer.<br/>
- 🌱 I'm  Currently Learning Next.js.<br/>
- 🔍 I am Looking for Machine Learning Resources.<br/>
+ 🌱 I'm  Currently Learning Data Science <br/>
+ 🔍 I am Looking for Nex.js Resources <br/>
  🤔 I’m looking for help with Python and R especially Data Scraping <br/>
  💬 Ask me About  Data structure and Algorithms, Front end Development <br/>
  ⚡ Fun fact: I Love Doge Meme 🐶<br/>
