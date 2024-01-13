@@ -3,10 +3,10 @@
 ![logo](https://github.com/RahulBisht001/RahulBisht001/blob/main/GithubBanner%20Final.png)
 
 
-# 💫 About Me:
+## 💫 About Me:
  🔭 I’m a Full stack MERN Developer.<br/>
- 🌱 I'm  Currently Learning Data Science <br/>
- 🔍 I am Looking for Nex.js Resources <br/>
+ 🌱 I'm  Currently Learning Python and Django <br/>
+ 🔍 I am Looking for Next.js and Nest.js Resources <br/>
  🤔 I’m looking for help with Python and R especially Data Scraping <br/>
  💬 Ask me About  Data structure and Algorithms, Front end Development <br/>
  ⚡ Fun fact: I Love Doge Meme 🐶<br/>
@@ -16,10 +16,11 @@
 
 <img align="left" width="400" src="[(https://pin.it/5h3urp4)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dcoder&psig=AOvVaw1pQKPdIbMJO1YPajaWWDo_&ust=1673364537857000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjC3-DmuvwCFQAAAAAdAAAAABAR)">
 
+</br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
-### Last 30 Days Github Activity
+### Last 30 Days Github Activity :
 ![](https://github-readme-activity-graph.vercel.app/graph?username=RahulBisht001&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulBisht001&theme=github_dark)
 
@@ -32,7 +33,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RahulBisht001&theme=github-dark)](https://git.io/streak-stats)
 
-# 🐦 Coding Stats:
+## 🐦 Coding Stats:
 ![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=rb001)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rahulb_001)
 
@@ -52,17 +53,25 @@
 <a href="https://www.hackerearth.com/@rahulbisht1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rahulbisht1012" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
+</br>
+</br>
+
+## 🖥️Tech Stack:
+<p></p>
 
 <h3 align="left">Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,html,css,scss&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,html,css,tailwind,scss&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,nextjs,expressjs,tailwind,materialui,mongodb,redis,mysql&theme=light)](https://skillicons.dev)
+<h3 align="left">Technologies</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,codepen,git,github,postman,idea,vscode,vite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,nextjs,expressjs,django,mongodb,redis,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sklearn,firebase,stackoverflow,vercel,netlify,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,stackoverflow,vercel,netlify,cloudflare&theme=light)](https://skillicons.dev)
+<h3 align="left">Software and Tools</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,bootstrap,codepen,materialui,idea,vscode,vite,md,replit,discord&theme=dark)](https://skillicons.dev)
+
 
 
 ### ✍️ Random Dev Quote
