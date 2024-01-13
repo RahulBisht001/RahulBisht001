@@ -52,8 +52,9 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=RahulBisht001&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulBisht001&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulBisht001&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulBisht001&theme=github_dark)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulBisht001&theme=github_dark)-->
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulBisht001&theme=github_dark)-->
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RahulBisht001&layout=compact&langs_count=8&theme=react)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulBisht001&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahulBisht001&theme=github_dark&utcOffset=8)
