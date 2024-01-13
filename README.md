@@ -48,29 +48,16 @@
 
 # 📊 GitHub Stats:
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulBisht001&theme=github_dark)
 
-<!--![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulBisht001&layout=pie)-->
-<!--![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulBisht001&layout=donut-vertical)-->
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulBisht001&layout=donut-vertical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulBisht001&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulBisht001&theme=github_dark)
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=RahulBisht001&theme=tokyonights)
-![Github States](https://github-readme-stats.vercel.app/api?username=RahulBisht001&show_icons=true&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulBisht001&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahulBisht001&theme=github_dark&utcOffset=8)
 
-
-<!-- <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulbisht001&layout=compact&langs_count=5&theme=dark"
-  alt="rahulbisht001" /></p>
-<br/>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulbisht001&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></p>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbisht001&show_icons=true&theme=dark" alt="rahulbisht001" /></p>
-<br/>  
-!-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RahulBisht001&theme=github-dark)](https://git.io/streak-stats)
 
 ### ✍️ Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
