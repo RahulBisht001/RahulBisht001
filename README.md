@@ -61,8 +61,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RahulBisht001&theme=github-dark)](https://git.io/streak-stats)
 
-# Leetcode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/rahulb_001?ext=activity)
+# 🐦 Coding Stats:
+![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=rb001)
+![Leetcode Stats](https://leetcard.jacoblin.cool/rahulb_001)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
