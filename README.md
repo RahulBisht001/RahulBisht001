@@ -61,16 +61,21 @@
 
 <h3 align="left">Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,html,css,tailwind,scss&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,c&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,cpp,html,css,scss&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Technologies</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,nextjs,expressjs,django,mongodb,redis,&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=sklearn,firebase,stackoverflow,vercel,netlify,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,nextjs,expressjs,django,&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,redis,sklearn,firebase,vercel,netlify,&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Software and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,bootstrap,codepen,materialui,idea,vscode,vite,md,replit,discord&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,bootstrap,codepen,materialui&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,vite,md,replit,discord&theme=dark)](https://skillicons.dev)
 
 
 
