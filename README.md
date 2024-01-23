@@ -27,7 +27,7 @@
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulBisht001&theme=github_dark)-->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulBisht001&theme=github_dark)-->
 <!--![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RahulBisht001&layout=compact&langs_count=8&theme=react)-->
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RahulBisht001&layout=compact&langs_count=8&theme=react)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RahulBisht001&layout=compact&langs_count=10&&theme=react)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulBisht001&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahulBisht001&theme=github_dark&utcOffset=8)
