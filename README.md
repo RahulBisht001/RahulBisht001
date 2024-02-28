@@ -4,10 +4,10 @@
 
 
 ## 💫 About Me:
- 🔭 I’m a Full stack MERN Developer.<br/>
- 🌱 I'm  Currently Learning Python and Django <br/>
- 🔍 I am Looking for Next.js and Nest.js Resources <br/>
- 🤔 I’m looking for help with Python and R especially Data Scraping <br/>
+ 🔭 I’m a Full stack MERN X Next.js Developer.<br/>
+ 🌱 I'm  Currently Learning AWS 🌥️<br/>
+ 🔍 I am Looking for Django and NLP Resources. <br/>
+ 🤔 Have you checked out my [Portfolio](https://rahulb-portfolio.vercel.app/) <br/>
  💬 Ask me About  Data structure and Algorithms, Front end Development <br/>
  ⚡ Fun fact: I Love Doge Meme 🐶<br/>
  👨‍💻 All of my projects are available at : [RahulB001](https://www.linkedin.com/in/RahulB001/)<br/>
